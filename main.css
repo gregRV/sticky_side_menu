@@ -50,3 +50,10 @@ body {
 	margin: 0px;
 	padding: 0px;
 }
+
+#sesame {
+	color: red;
+	position: fixed;
+	font-size: large;
+	font-weight: bold;
+}
